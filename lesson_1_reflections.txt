@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Diff can be an essentail tool to finding the bug in your new code you didn't have before,
+    it does this by comparing the two files (the new one and the old one stated). 
+    The computer does this very efficiently compared to a human trying to do this, which 
+    helps saves a lot of time and stress! 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You will be able to reflect and see the improvements every time. 
+    Also you can save time fixing bugs by looking at the old versions of the file. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+It's easier for a human to judge this. You should have one commit per logical change.
+Therefore if you've been working on different bugs you can make different commits as 
+they are different features. Automatically saving this can confuse a user making changes 
+on different features, therefore manual commits can be a lot better if the user has 
+judged the commit correctly
+    
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+  As in GIT the files will most likely be internlinked, such as a HTML and CSS change,
+  whereas Google Docs wouldn't require this.
+
+How can you use the commands git log and git diff to view the history of files?
+
+   Using GIT log allows a user to see all the versions of code added over time, 
+   when using git diff you can see how many lines of code have been added and 
+   removed and what lines of codes have been changed by comparing the log numbers 
+   of the files.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You have the confidence that you can checkout previous working versions of 
+    the code that doesn't have the bug in, therefore you are free to play 
+    around in the code without harming anything.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    All my future web development projects 
