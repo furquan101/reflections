@@ -2,3 +2,6 @@ Making changes directly on GitHub
 When would you want to use a remote repository rather than keeping all your work local?
 It would be best to do this if you are working with a team, especially if they 
 are based in a different country this will help significantly. 
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+This can disrupt your workflow by pulling in new lines of code or removing code you maybe using 
