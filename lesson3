@@ -5,3 +5,14 @@ are based in a different country this will help significantly.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 This can disrupt your workflow by pulling in new lines of code or removing code you maybe using 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is getting another repositrys code and cloning it into you're own workspace. 
+This way your changes won't affect the main persons repo and will only affect 
+your own version. 
+
+Cloning is getting the master repo and getting an exact copy onto your local
+
+Branching is getting an existing branch in a repo and copying it to make 
+changes only to that new branch and not affecting the master
