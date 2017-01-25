@@ -16,3 +16,9 @@ Cloning is getting the master repo and getting an exact copy onto your local
 
 Branching is getting an existing branch in a repo and copying it to make 
 changes only to that new branch and not affecting the master
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The benefits of this can be significant if someone has been working on the same code of you
+you need to sort out the conflict otherwise you won't be able to push your changes, 
+also this can save a lot of hassle in the long run.
