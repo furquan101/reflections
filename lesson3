@@ -26,3 +26,9 @@ also this can save a lot of hassle in the long run.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 You could use another version control system, git may take a little more practise to get use to 
 but has a lot more features. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+The master branch should be at a production ready state, when fixing a bug or creating a new feature 
+you want to create a new branch to do this. This benefits of doing this is that you can 
+always show a working piece of code to anyone, and you can test new features without worrying about 
+messing anything up
