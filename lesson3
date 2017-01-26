@@ -22,3 +22,7 @@ What is the benefit of having a copy of the last known state of the remote store
 The benefits of this can be significant if someone has been working on the same code of you
 you need to sort out the conflict otherwise you won't be able to push your changes, 
 also this can save a lot of hassle in the long run.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You could use another version control system, git may take a little more practise to get use to 
+but has a lot more features. 
